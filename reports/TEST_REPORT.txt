@@ -1,0 +1,8 @@
+7/7 unit tests PASS
+- data integrity
+- forecast invariants
+- determinism
+- chronology
+- forecast freeze + SQLite
+- bootstrap
+- no-signal rejection

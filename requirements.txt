@@ -1,0 +1,1 @@
+# A forrásból futó verzió kizárólag Python standard library-t használ.

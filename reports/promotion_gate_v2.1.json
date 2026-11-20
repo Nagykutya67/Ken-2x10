@@ -1,0 +1,15 @@
+{
+  "n": 1000,
+  "uplift": 0,
+  "ci_low": 0.0,
+  "ci_high": 0.0,
+  "positive_periods": 0,
+  "lower_tail_delta": 0,
+  "ab_balance_delta": 0.0,
+  "decision": "REJECT",
+  "reasons": [
+    "nincs pozitív uplift",
+    "bootstrap CI alsó határ nem pozitív",
+    "nem javul mindhárom időszakban"
+  ]
+}
